@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="E:\Android\Learn\android-wheel-master\wheel-demo\build\intermediates\exploded-aar\android-wheel-master\wheel\unspecified\assets"/></dataSet><dataSet config="main"><source path="E:\Android\Learn\android-wheel-master\wheel-demo\assets"/></dataSet><dataSet config="debug"><source path="E:\Android\Learn\android-wheel-master\wheel-demo\build-types\debug\assets"/></dataSet></merger>
